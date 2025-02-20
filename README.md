@@ -53,7 +53,7 @@
 <p align="center">
 
 
-<a href="[https://www.linkedin.com/in/user-name/](https://www.linkedin.com/in/reece-folkes-5a9b2712b/) " >
+<a href="[https://www.linkedin.com/in/user-name/reece-folkes-5a9b2712b/) " >
 
 <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 
